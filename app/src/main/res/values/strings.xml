@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CapstoneApp</string>
+    <string name="sure">Are you sure want to delete this book?</string>
+    <string name="action">This action s not reversible</string>
+    <string name="create_acc">Please enter a valid email and password that is at least 6 characters</string>
+</resources>
